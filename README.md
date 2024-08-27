@@ -1,8 +1,6 @@
 # Hotmail Valid Email Checker
 
-## Overview
-
-This tool checks a list of Hotmail email addresses from a text file to determine which emails are registered and exist with Hotmail domains. It supports all Hotmail domains for various countries.
+![Area Code Database](https://raw.githubusercontent.com/alexrony21/Hotmail-Valid-Email-Checker/main/Hotmail_Valid_Email_Checker.png)
 
 ### Supported Countries and Hotmail Domains
 
