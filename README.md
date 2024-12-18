@@ -40,4 +40,6 @@
 
 ## Contact
 
-If you want to buy this tool, contact me via Telegram [@alexrony21](https://t.me/alexrony21). Time wasters will be banned immediately.
+If you want to buy this tool, contact me via Telegram [@alexrony21](https://t.me/alexrony21).
+
+Thanks
