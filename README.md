@@ -1,6 +1,6 @@
 # Hotmail Valid Email Checker
 
-![Area Code Database](https://raw.githubusercontent.com/alexrony21/Hotmail-Valid-Email-Checker/main/Hotmail_Valid_Email_Checker.png)
+![image](https://raw.githubusercontent.com/alexrony21/Hotmail-Valid-Email-Checker/main/Hotmail_Valid_Email_Checker.png)
 
 ### Supported Countries and Hotmail Domains
 
