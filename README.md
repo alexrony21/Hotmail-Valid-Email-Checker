@@ -1,6 +1,6 @@
 # Hotmail Valid Email Checker
 
-![image](https://raw.githubusercontent.com/alexrony21/Hotmail-Valid-Email-Checker/main/Hotmail_Valid_Email_Checker.png)
+![image](https://raw.githubusercontent.com/alexrony21/Hotmail-Valid-Email-Checker/refs/heads/main/hotmail-email-validator.png)
 
 ### Supported Countries and Hotmail Domains
 
@@ -38,9 +38,12 @@
 - Hong Kong: hotmail.com.hk
 - New Zealand: hotmail.co.nz
 
-## Contact
+## 🤝 Get in Touch
 
-If you want to buy this tool, contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
+if you want to purchase,
+
+- Email     : elowenreply@gmail.com
+- Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
 
 ## Note:
 This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
