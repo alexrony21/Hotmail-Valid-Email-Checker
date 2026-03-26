@@ -1,7 +1,7 @@
 # Hotmail Email Validator
 # Hotmail 电子邮件验证器
 
-![image](github.com/alexrony21/Hotmail-Valid-Email-Checker/blob/main/hotmail-email-validator-github.png?raw=true)
+![Hotmail Email Validator](https://raw.githubusercontent.com/alexrony21/Hotmail-Valid-Email-Checker/refs/heads/main/hotmail-email-validator-github.png)
 
 ## 🚀 Features
 
